@@ -8,17 +8,17 @@
 		<table>
 			<tr>
 				<td><label for="key-kwfinder">API-KEY KWfinder:</label></td>
-				<td><input type="text" name="key-kwfinder" id="key-kwfinder" style="width:200%;"></td>
+				<td><input type="text" name="key-kwfinder" id="key-kwfinder" style="width:200%;" required=""></td>
 			</tr>
 
 			<tr>
 				<td><label for="key-articleforge">API-KEY Articleforge:</label></td>
-				<td><input type="text" name="key-articleforge" id="key-articleforge" style="width:200%;"></td>
+				<td><input type="text" name="key-articleforge" id="key-articleforge" style="width:200%;" required=""></td>
 			</tr>
 
 			<tr>
 				<td><label for="key-languagetoolplus">API-KEY LanguageToolPlus:</label></td>
-				<td><input type="text" name="key-languagetoolplus" id="key-languagetoolplus" style="width:200%;"></td>
+				<td><input type="text" name="key-languagetoolplus" id="key-languagetoolplus" style="width:200%;" required=""></td>
 			</tr>
 
 			<tr>
